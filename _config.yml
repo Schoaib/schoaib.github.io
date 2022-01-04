@@ -23,7 +23,7 @@ email: hello@syedshoaib.me
 description: >- # this means to ignore newlines until "baseurl:"
   Discussing All Things DevOps & Cloud
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.syedshoaib.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Schoaib
 github_username:  Schoaib
 
@@ -31,6 +31,7 @@ github_username:  Schoaib
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default.
