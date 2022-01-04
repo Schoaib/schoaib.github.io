@@ -31,8 +31,6 @@ github_username:  Schoaib
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-seo
   - jekyll-admin
 
 # Exclude from processing.
